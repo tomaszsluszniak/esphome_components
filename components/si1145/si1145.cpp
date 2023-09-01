@@ -1,7 +1,6 @@
 #include "si1145.h"
 
 #include <cmath>
-#include <conio.h>
 
 #include "esphome/core/log.h"
 
